@@ -1,1 +1,3 @@
 git remote add origin https://github.com/Umesh27/NodeJS.git
+
+to access outside file functions use module.exports. to export the function.
